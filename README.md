@@ -48,7 +48,7 @@ Match Score + Skill Suggestions
 Installation -
 
 Clone the repository:
-git clone https://github.com/your-username/resume-scanner.git
+git clone https://github.com/Xshreyas/resume-Scanner.git
 cd resume-scanner
 Install dependencies:
 pip install -r requirements.txt
@@ -72,6 +72,4 @@ Deploy using FastAPI backend
 Add dashboard for analytics
 
 Author -
-Rohan Gaikwad
-BSc Computer Science
-Interested in AI, ML, and Backend Development
+Shreyas Dhomase
